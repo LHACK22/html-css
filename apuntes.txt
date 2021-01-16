@@ -1,0 +1,119 @@
+Curso definitivo de HMTL Y CSS
+
+***Frontend***
+
+Html y Css son estandares que entiende el navegador
+
+Framework de Css
+
+Ej: Bootstrap
+
+Tienen bloques de codigo de css para agilizar el tiempo de creación
+
+Frameworks y librerias de JS
+
+React - Angular - VueJS
+
+Mayor interactiviad en menos tiempo de desarrollo
+
+Preprocesadores de CSS
+
+less - stylus - sass
+
+Manejar css con superpoderes
+
+Compilador / Empaquetador de JS
+
+BABEL - WebPack
+
+
+****Backend*****
+
+Algunos lenguajes que debe manejar un backend son los siguientes
+
+NodeJS - Python - PHP - Ruby - Go - Java - .NET
+
+Estos lenguajes tambien tienen Framework
+
+Como por ejemplo
+
+django->Python - Laravel->PHP - Rails->Ruby - Express->JavaScript - Spring->Java
+
+Tambien nos ayuda a construir aplicaciones robustas de manera mas rapidas
+
+Tambien debe saber infraestructura
+
+Como por ejemplo
+
+Google Cloud - DigitalOcean - AWS - Heroku
+
+Base de datos
+
+MongoDB - MYSQL - PostgreSQL
+
+
+****FullStack****
+
+Es una fusion entre Backend y Frontend, entiendo todo el proceso de creacion de una aplicacion, 
+pero no es experto en todo tambien tiene una especialidad. 
+
+
+Pagina Estáticas vs. Dinámica 
+
+Las paginas estaticas son aquellas que tienen informacion que nunca cambian, quiere decir que no esta conectada
+a una base de datos
+
+Las paginas dinámica son aquellas que tienen informacion variante, tienen mucha mas interactividad de informacion
+si tu puedes interactuar con la pagina, es dinamica (Web Apps).
+
+HTML Significa Hypertext Markup Language
+
+Cual es la anatomía de una Página Web
+Header-Body-Footer
+
+Los meta son aquellos metadatos de referencia de una pagina web. Como por ejemplo, Autor, Descripcion, ect..
+
+El elemento HTML <head> provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos.
+
+una etiqueta se compone de atributo y el contenido
+
+LLeva el nombre del atributo, el valor de atributo y el contenido
+
+
+Existen dos tipos de etiquetas
+
+Etiqueta de contenido y contenedora
+
+La de contenido son aquellas que se le incluye contenido dentro y contenedora son las que tienen mas 
+etiqueta dentro
+
+Etiquetas de multimedia
+
+Lossy vs Lossless
+
+Con perdida / Sin perdida
+
+ Lossless
+ Son formato sin perdida de calidad, estas imagenes pueden ser pesada
+
+    -GIF
+    -PNG 8 -> Fondo transparente 
+    -PNG 24 -> Imagen con posibilidad de manejar fondo 
+
+ Lossy
+
+ Son formato con perdida de calidad, pero mejora la velocidad de nuetra web
+
+    -JPG / JPEG
+    -SVG  
+
+Tamaño promedio de una imagen es de 70 KB
+
+Opciones para trabajar las imágenes
+
+- Mejora el Tamaño de tus imágenes 
+    * Tiny PNG
+
+
+- Retira metadatos de tus imágenes 
+    * Verexif
